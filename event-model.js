@@ -1,0 +1,1 @@
+/**  * 3. 请实现一个事件模型（EventEmitter）  * 实现简单的 on、off、once等功能  */
